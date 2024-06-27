@@ -127,7 +127,7 @@
       {
         "Type": "osu.Game.Screens.Play.HUD.ArgonComboCounter, osu.Game, Version=2024.521.2.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
-          "x": 6.2410583,
+          "x": 0,
           "y": -137.07803
         },
         "Rotation": 0.0,
