@@ -205,15 +205,15 @@
       {
         "Type": "osu.Game.Screens.Play.HUD.ArgonSongProgress, osu.Game, Version=2024.817.0.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
-          "x": -3.5,
-          "y": 222.0
+          "x": -1.5,
+          "y": 230
         },
         "Rotation": -90.0,
         "Scale": {
-          "x": 0.88,
-          "y": 0.88
+          "x": 0.9,
+          "y": 0.9
         },
-        "Width": 0.09,
+        "Width": 0.108,
         "Height": null,
         "Anchor": 34,
         "Origin": 20,
