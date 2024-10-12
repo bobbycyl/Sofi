@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "DrawableInfo": {
+    "global": [
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.1009.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": -420.2823,
+          "y": 173.9217
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 3.3,
+          "y": 3.3
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 12,
+        "Origin": 12,
+        "UsesFixedAnchor": false,
+        "Settings": {
+          "sprite_name": "button-middle@2x.png"
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.1009.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 126,
+          "y": -1
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.067,
+          "y": 0.067
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 12,
+        "Origin": 12,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "sprite_name": "sagiri-1.png"
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.1009.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 166.5,
+          "y": 1.77
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.077,
+          "y": 0.077
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 12,
+        "Origin": 12,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "sprite_name": "sagiri-2.png"
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.1009.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": -112,
+          "y": 12.2
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.11,
+          "y": 0.11
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 20,
+        "Origin": 12,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "sprite_name": "sagiri-3.png"
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.1009.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": -19.7,
+          "y": 9.4
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.08,
+          "y": 0.08
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 20,
+        "Origin": 20,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "sprite_name": "sagiri-6.png"
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.1009.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": -430,
+          "y": 9.4
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.096,
+          "y": 0.096
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 36,
+        "Origin": 20,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "sprite_name": "sagiri-7.png"
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.1009.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": -376,
+          "y": 18.4
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.099,
+          "y": 0.099
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 36,
+        "Origin": 20,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "sprite_name": "sagiri-8.png"
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.1009.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": -331.6,
+          "y": 12.9
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.07,
+          "y": 0.07
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 36,
+        "Origin": 20,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "sprite_name": "sagiri-9.png"
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.1009.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": -279.6,
+          "y": 7.3
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.077,
+          "y": 0.077
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 36,
+        "Origin": 20,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "sprite_name": "sagiri-10.png"
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.1009.1.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 129,
+          "y": -83
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": -0.27,
+          "y": 0.27
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 36,
+        "Origin": 12,
+        "UsesFixedAnchor": false,
+        "Settings": {
+          "sprite_name": "82918761_p0.png"
+        },
+        "Children": []
+      }
+    ]
+  }
+}

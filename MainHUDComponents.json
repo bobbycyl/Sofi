@@ -246,25 +246,6 @@
     ],
     "taiko": [
       {
-        "Type": "osu.Game.Screens.Play.ArgonKeyCounterDisplay, osu.Game, Version=2024.817.0.0, Culture=neutral, PublicKeyToken=null",
-        "Position": {
-          "x": 0.0,
-          "y": 0.0
-        },
-        "Rotation": 0.0,
-        "Scale": {
-          "x": 1.0,
-          "y": 1.0
-        },
-        "Width": null,
-        "Height": null,
-        "Anchor": 36,
-        "Origin": 36,
-        "UsesFixedAnchor": false,
-        "Settings": {},
-        "Children": []
-      },
-      {
         "Type": "osu.Game.Screens.Play.HUD.ArgonComboCounter, osu.Game, Version=2024.817.0.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 0.0,
@@ -284,6 +265,25 @@
           "wireframe_opacity": 0.0,
           "show_label": false
         },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.LegacySongProgress, osu.Game, Version=2024.817.0.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 30.0,
+          "y": 3.5
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.75,
+          "y": 0.75
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 17,
+        "Origin": 17,
+        "UsesFixedAnchor": false,
+        "Settings": {},
         "Children": []
       }
     ],
